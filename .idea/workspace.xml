@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a63b230-f276-4a2d-81f4-a2f0f496c00c" name="Default Changelist" comment="" />
+    <list default="true" id="5a63b230-f276-4a2d-81f4-a2f0f496c00c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -105,6 +112,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1a4sCRFoNrEQ8IQyKEhCAdPbb3G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -112,6 +120,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -133,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586006073418</updated>
       <workItem from="1586006080602" duration="8537000" />
-      <workItem from="1586063856817" duration="386000" />
+      <workItem from="1586063856817" duration="3911000" />
     </task>
     <servers />
   </component>
@@ -141,10 +150,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="503" y="325" width="349" height="151" key="NewPhpFileDialog" timestamp="1586010606425">
+    <state x="503" y="325" width="349" height="151" key="NewPhpFileDialog" timestamp="1586064897198">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="503" y="325" width="349" height="151" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1586010606425" />
+    <state x="503" y="325" width="349" height="151" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1586064897198" />
     <state x="376" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1586063991920">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
