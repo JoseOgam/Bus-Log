@@ -38,6 +38,7 @@ const router = new VueRouter({
 Vue.component('example-component', require('./components/ExampleComponent.vue').default);
 Vue.component('search-bus', require('./components/SearchBus.vue').default);
 Vue.component('contact-form', require('./components/ContactForm.vue').default);
+Vue.component('main-footer', require('./components/MainFooter.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
