@@ -20,15 +20,12 @@
 
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="css/style.css">
+    <!--app.js-->
     <script src="{{ asset('js/app.js') }}" defer></script>
 
 </head>
-
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
-
-
 <div class="site-wrap" id="app">
-
     <div class="site-mobile-menu site-navbar-target">
         <div class="site-mobile-menu-header">
             <div class="site-mobile-menu-close mt-3">
@@ -37,10 +34,8 @@
         </div>
         <div class="site-mobile-menu-body"></div>
     </div>
-
     <section>
         <header class="site-navbar site-navbar-target" role="banner">
-
             <div class="container">
                 <div class="row align-items-center position-relative">
 
@@ -51,14 +46,12 @@
                     </div>
 
                     <div class="col-9  text-right">
-
-
-                    <span class="d-inline-block d-lg-none"><a href="#"
-                                                              class="text-white site-menu-toggle
-                                                               js-menu-toggle py-5 text-white"><span
-                                class="icon-menu h3 text-white"></span></a></span>
-
-
+                        <span class="d-inline-block d-lg-none">
+                            <a href="#" class="text-white site-menu-toggle
+                                                               js-menu-toggle py-5 text-white">
+                                <span class="icon-menu h3 text-white"></span>
+                            </a>
+                        </span>
                         <nav class="site-navigation text-right ml-auto d-none d-lg-block" role="navigation">
                             <ul class="site-menu main-menu js-clone-nav ml-auto ">
                                 <li><a href="#" class="nav-link">Home</a></li>
@@ -67,15 +60,11 @@
                             </ul>
                         </nav>
                     </div>
-
-
                 </div>
             </div>
         </header>
     </section>
-
     <section id="Home">
-
         <div class="site-section bg-primary">
             <div class="container">
                 <div class="row">
@@ -94,12 +83,12 @@
                     <div class="col-lg-9">
                         <div class="nonloop-block-13 owl-carousel">
                             <div class="item-1">
-                                <a href="#"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
+                                <a href="#"><img src="{{('images/img_1.jpg')}}" alt="Image" class="img-fluid"></a>
                             </div>
 
 
                             <div class="item-1">
-                                <a href="#"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
+                                <a href="#"><img src="{{('images/img_2.jpg')}}" alt="Image" class="img-fluid"></a>
                             </div>
 
                         </div>
@@ -111,13 +100,12 @@
 
     </section>
 
-    <section>
-        <div class="site-section pt-0 pb-0 bg-light" id="Book">
+    <section id="Book">
+        <div class="site-section pt-0 pb-0 bg-light">
             <search-bus></search-bus>
         </div>
     </section>
     <section id="Contact">
-
         <div class="container site-section mb-5">
             <div class="row justify-content-center text-center">
                 <contact-form></contact-form>
@@ -128,9 +116,7 @@
     <footer class="site-footer">
         <main-footer></main-footer>
     </footer>
-
 </div>
-
 <script src="js/jquery-3.3.1.min.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
@@ -142,7 +128,6 @@
 <script src="js/jquery.easing.1.3.js"></script>
 <script src="js/bootstrap-datepicker.min.js"></script>
 <script src="js/aos.js"></script>
-
 <script src="js/main.js"></script>
 
 </body>

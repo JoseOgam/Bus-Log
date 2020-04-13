@@ -37573,6 +37573,7 @@ var staticRenderFns = [
                   _c("div", { staticClass: "col-md-12" }, [
                     _c("textarea", {
                       staticClass: "form-control",
+                      staticStyle: { resize: "none" },
                       attrs: {
                         name: "",
                         id: "",

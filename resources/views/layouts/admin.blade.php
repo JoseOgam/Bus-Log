@@ -176,6 +176,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
             <div class="container-fluid">
 
 
+                <main class="py-4">
+                    @yield('content')
+                </main>
 
             </div><!-- /.container-fluid -->
         </div>

@@ -4,8 +4,9 @@
     <list default="true" id="5a63b230-f276-4a2d-81f4-a2f0f496c00c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/ContactForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/ContactForm.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +153,9 @@
       <workItem from="1586006080602" duration="8537000" />
       <workItem from="1586063856817" duration="4823000" />
       <workItem from="1586508005940" duration="1555000" />
-      <workItem from="1586521663864" duration="11563000" />
+      <workItem from="1586521663864" duration="14471000" />
+      <workItem from="1586758063043" duration="597000" />
+      <workItem from="1586791805775" duration="574000" />
     </task>
     <servers />
   </component>
@@ -164,10 +167,10 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="503" y="325" width="349" height="151" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1586064897198" />
-    <state x="376" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1586521666040">
+    <state x="376" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1586793213155">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="376" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1586521666040" />
+    <state x="376" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1586793213155" />
     <state x="347" y="176" key="run.anything.popup" timestamp="1586014782350">
       <screen x="0" y="30" width="1366" height="738" />
     </state>

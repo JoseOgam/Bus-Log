@@ -34,9 +34,9 @@
                             </div>
 
                             <div class="form-group row">
-                                <div class="col-md-12">
+                                <div class="col-md-12">o ./manager-linux
                                     <textarea name="" id="" class="form-control" placeholder="Write your message."
-                                              cols="30" rows="10"></textarea>
+                                              style="resize: none"    cols="30" rows="10"></textarea>
                                 </div>
                             </div>
                             <div class="form-group row">
